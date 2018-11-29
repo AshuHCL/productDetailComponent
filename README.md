@@ -5,6 +5,9 @@
 # Description
 A reusable component to display a product's details, while reading all the required product details returned from a REST API in JSON format.
 
+# Demo
+You may want to have a look at the demo : https://react-c8qcqm.stackblitz.io
+
 # Steps to start the application locally
 1. Clone the application
 2. Run "npm install" at the root folder of the application to download the node_modules
